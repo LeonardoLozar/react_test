@@ -36,7 +36,7 @@ function FeedBackForm() {
         if (text.trim().length > 10) {
             const newFeedBack = {
                 text,
-                rating,
+                rating
             }
             if(feedBackEdit.edit === true){
                 updateFeedBack(feedBackEdit.item.id, newFeedBack)

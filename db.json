@@ -1,0 +1,39 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This is feedback from json one"
+    },
+    {
+      "id": 2,
+      "rating": 8,
+      "text": "This is feedback from json two"
+    },
+    {
+      "id": 3,
+      "rating": 9,
+      "text": "This is feedback from json three"
+    },
+    {
+      "rating": 7,
+      "text": "feedback from postman",
+      "id": 4
+    },
+    {
+      "text": "test of inser for db",
+      "rating": 6,
+      "id": 5
+    },
+    {
+      "text": "123 4567890 ",
+      "rating": 9,
+      "id": 6
+    },
+    {
+      "rating": 7,
+      "text": "'feedback from postman'",
+      "id": 7
+    }
+  ]
+}
